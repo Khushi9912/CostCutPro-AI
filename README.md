@@ -15,6 +15,7 @@ To solve the problem of unnecessary departmental overspending by giving teams a 
 - `CostCutPro_PitchDeck.pdf` – Presentation deck
 - `raw_financial_summary.txt` – Sample data uploaded in KB
 - `agent_prompt.txt` – Prompt used to guide the agent
+-  Demo Video: See `CostCutPro_Demo.mp4` in this repo.
   
 ##  Tools Used
 - Lyzr Studio  
